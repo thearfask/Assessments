@@ -1,0 +1,54 @@
+Patient Name
+REKHA
+Age
+Ref By
+Dr.Virinder Singh
+Report No. 28
+Dated
+31/08/2015
+Investigations
+Result Units
+Normal
+HAEMATOLOGY INVESTIGATION
+Haemoglobin
+Total Leucocyte Count
+Differential Leucocyte Count:
+Neutrophils
+13.40
+G%
+[M-12-16
+(4000-10
+26,200 Imm3
+86
+%
+(50-76
+20-45
+4-ymphocytes
+Monocytes
+02
+%
+o-21
+1-61
+Eosinophils
+02
+Basophils
+00
+10-11
+SEROLOGICAL INVESTIGATION
+Non Reactive
+HBs Ag
+Non Reactive
+HCV
+Biochemical Investigation
+RENAL PROFILE
+mg/d!
+mg/d
+178.8
+Blood Urea
+7.41
+Serum Creatinine
+Ab. Tech
+Contact:+91-7355833554
+www.drdassans.com
+assan's
+PatientNameREKHAAgeRefByDr.VirinderSinghReportNo.28Dated31/08/2015InvestigationsResultUnitsNormalHAEMATOLOGYINVESTIGATIONHaemoglobinTotalLeucocyteCountDifferentialLeucocyteCount:Neutrophils13.40G%[M-12-16(4000-1026,200Imm386%(50-7620-454-ymphocytesMonocytes02%o-211-61Eosinophils02Basophils0010-11SEROLOGICALINVESTIGATIONNonReactiveHBsAgNonReactiveHCVBiochemicalInvestigationRENALPROFILEmg/d!mg/d178.8BloodUrea7.41SerumCreatinineAb.TechContact:+91-7355833554www.drdassans.comassan's
