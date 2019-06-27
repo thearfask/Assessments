@@ -1,5 +1,6 @@
 import GCV_Engine
 import re
+import json
 
 file_name__REPORT = 'report2.jpg'
 
@@ -9,7 +10,6 @@ dict_data = {}
 
 with open(file_op, 'r') as f:
 	data = f.read().replace('\n', ' ')
-	print(data)
 	match = re.search(r'Patient Name (.*?) Age', data)
 	if match == None:
 		dict_data['Name'] = None
@@ -95,4 +95,5 @@ with open(file_op, 'r') as f:
 		dict_data['RENAL PROFILE'].append(hb)
 
 
-print(dict_data)
+with open('../JSON_DATA/result2.json', 'w') as fp:
+    json.dump(dict_data, fp)

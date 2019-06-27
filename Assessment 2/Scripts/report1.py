@@ -1,6 +1,6 @@
 import GCV_Engine
 import re
-
+import json
 
 file_name__REPORT =  'report1.jpg'
 
@@ -33,4 +33,5 @@ with open(file_op, 'r') as f:
 		dict_data['Gender'] = Gender
 	
 
-print(dict_data)
+with open('../JSON_DATA/result1.json', 'w') as fp:
+    json.dump(dict_data, fp)

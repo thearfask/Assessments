@@ -1,7 +1,6 @@
 import GCV_Engine
 import re
-
-
+import json
 
 file_name__REPORT = 'report3.jpg'
 
@@ -60,4 +59,6 @@ with open(file_op, 'r') as f:
 		POSTPRANDIAL = {'POSTPRANDIAL':BS}
 		dict_data['Blood Sugar'].append(POSTPRANDIAL)
 
-print(dict_data)
+
+with open('../JSON_DATA/result3.json', 'w') as fp:
+    json.dump(dict_data, fp)
